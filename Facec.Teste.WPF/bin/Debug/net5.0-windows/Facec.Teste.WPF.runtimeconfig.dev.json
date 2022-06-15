@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\facec.lab04\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\facec.lab04\\.nuget\\packages"
+    ]
+  }
+}

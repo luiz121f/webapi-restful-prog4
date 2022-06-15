@@ -1,0 +1,93 @@
+C:\Users\guimi\OneDrive\Área de Trabalho\facec-clientes-wpf-main\Facec.Teste.WPF\bin\Debug\net5.0-windows\Facec.Teste.WPF.exe
+C:\Users\guimi\OneDrive\Área de Trabalho\facec-clientes-wpf-main\Facec.Teste.WPF\bin\Debug\net5.0-windows\Facec.Teste.WPF.deps.json
+C:\Users\guimi\OneDrive\Área de Trabalho\facec-clientes-wpf-main\Facec.Teste.WPF\bin\Debug\net5.0-windows\Facec.Teste.WPF.runtimeconfig.json
+C:\Users\guimi\OneDrive\Área de Trabalho\facec-clientes-wpf-main\Facec.Teste.WPF\bin\Debug\net5.0-windows\Facec.Teste.WPF.runtimeconfig.dev.json
+C:\Users\guimi\OneDrive\Área de Trabalho\facec-clientes-wpf-main\Facec.Teste.WPF\bin\Debug\net5.0-windows\Facec.Teste.WPF.dll
+C:\Users\guimi\OneDrive\Área de Trabalho\facec-clientes-wpf-main\Facec.Teste.WPF\bin\Debug\net5.0-windows\Facec.Teste.WPF.pdb
+C:\Users\guimi\OneDrive\Área de Trabalho\facec-clientes-wpf-main\Facec.Teste.WPF\bin\Debug\net5.0-windows\MaterialDesignColors.dll
+C:\Users\guimi\OneDrive\Área de Trabalho\facec-clientes-wpf-main\Facec.Teste.WPF\bin\Debug\net5.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\guimi\OneDrive\Área de Trabalho\facec-clientes-wpf-main\Facec.Teste.WPF\bin\Debug\net5.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\guimi\OneDrive\Área de Trabalho\facec-clientes-wpf-main\Facec.Teste.WPF\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\guimi\OneDrive\Área de Trabalho\facec-clientes-wpf-main\Facec.Teste.WPF\bin\Debug\net5.0-windows\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\guimi\OneDrive\Área de Trabalho\facec-clientes-wpf-main\Facec.Teste.WPF\bin\Debug\net5.0-windows\Nancy.dll
+C:\Users\guimi\OneDrive\Área de Trabalho\facec-clientes-wpf-main\Facec.Teste.WPF\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\guimi\OneDrive\Área de Trabalho\facec-clientes-wpf-main\Facec.Teste.WPF\obj\Debug\net5.0-windows\Facec.Teste.WPF.csproj.AssemblyReference.cache
+C:\Users\guimi\OneDrive\Área de Trabalho\facec-clientes-wpf-main\Facec.Teste.WPF\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\guimi\OneDrive\Área de Trabalho\facec-clientes-wpf-main\Facec.Teste.WPF\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\guimi\OneDrive\Área de Trabalho\facec-clientes-wpf-main\Facec.Teste.WPF\obj\Debug\net5.0-windows\Facec.Teste.WPF_MarkupCompile.cache
+C:\Users\guimi\OneDrive\Área de Trabalho\facec-clientes-wpf-main\Facec.Teste.WPF\obj\Debug\net5.0-windows\Facec.Teste.WPF_MarkupCompile.lref
+C:\Users\guimi\OneDrive\Área de Trabalho\facec-clientes-wpf-main\Facec.Teste.WPF\obj\Debug\net5.0-windows\App.baml
+C:\Users\guimi\OneDrive\Área de Trabalho\facec-clientes-wpf-main\Facec.Teste.WPF\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\guimi\OneDrive\Área de Trabalho\facec-clientes-wpf-main\Facec.Teste.WPF\obj\Debug\net5.0-windows\Facec.Teste.WPF.g.resources
+C:\Users\guimi\OneDrive\Área de Trabalho\facec-clientes-wpf-main\Facec.Teste.WPF\obj\Debug\net5.0-windows\Facec.Teste.WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guimi\OneDrive\Área de Trabalho\facec-clientes-wpf-main\Facec.Teste.WPF\obj\Debug\net5.0-windows\Facec.Teste.WPF.AssemblyInfoInputs.cache
+C:\Users\guimi\OneDrive\Área de Trabalho\facec-clientes-wpf-main\Facec.Teste.WPF\obj\Debug\net5.0-windows\Facec.Teste.WPF.AssemblyInfo.cs
+C:\Users\guimi\OneDrive\Área de Trabalho\facec-clientes-wpf-main\Facec.Teste.WPF\obj\Debug\net5.0-windows\Facec.Teste.WPF.csproj.CoreCompileInputs.cache
+C:\Users\guimi\OneDrive\Área de Trabalho\facec-clientes-wpf-main\Facec.Teste.WPF\obj\Debug\net5.0-windows\Facec.Teste.WPF.csproj.CopyComplete
+C:\Users\guimi\OneDrive\Área de Trabalho\facec-clientes-wpf-main\Facec.Teste.WPF\obj\Debug\net5.0-windows\Facec.Teste.WPF.dll
+C:\Users\guimi\OneDrive\Área de Trabalho\facec-clientes-wpf-main\Facec.Teste.WPF\obj\Debug\net5.0-windows\refint\Facec.Teste.WPF.dll
+C:\Users\guimi\OneDrive\Área de Trabalho\facec-clientes-wpf-main\Facec.Teste.WPF\obj\Debug\net5.0-windows\Facec.Teste.WPF.pdb
+C:\Users\guimi\OneDrive\Área de Trabalho\facec-clientes-wpf-main\Facec.Teste.WPF\obj\Debug\net5.0-windows\Facec.Teste.WPF.genruntimeconfig.cache
+C:\Users\guimi\OneDrive\Área de Trabalho\facec-clientes-wpf-main\Facec.Teste.WPF\obj\Debug\net5.0-windows\ref\Facec.Teste.WPF.dll
+C:\Users\guimi\OneDrive\Área de Trabalho\FACEC\2022\Programação IV\facec-clientes-wpf-main\Facec.Teste.WPF\obj\Debug\net5.0-windows\Facec.Teste.WPF.csproj.AssemblyReference.cache
+C:\Users\guimi\OneDrive\Área de Trabalho\FACEC\2022\Programação IV\facec-clientes-wpf-main\Facec.Teste.WPF\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\guimi\OneDrive\Área de Trabalho\FACEC\2022\Programação IV\facec-clientes-wpf-main\Facec.Teste.WPF\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\guimi\OneDrive\Área de Trabalho\FACEC\2022\Programação IV\facec-clientes-wpf-main\Facec.Teste.WPF\obj\Debug\net5.0-windows\Facec.Teste.WPF_MarkupCompile.cache
+C:\Users\guimi\OneDrive\Área de Trabalho\FACEC\2022\Programação IV\facec-clientes-wpf-main\Facec.Teste.WPF\obj\Debug\net5.0-windows\Facec.Teste.WPF_MarkupCompile.lref
+C:\Users\guimi\OneDrive\Área de Trabalho\FACEC\2022\Programação IV\facec-clientes-wpf-main\Facec.Teste.WPF\obj\Debug\net5.0-windows\Facec.Teste.WPF.dll
+C:\Users\guimi\OneDrive\Área de Trabalho\FACEC\2022\Programação IV\facec-clientes-wpf-main\Facec.Teste.WPF\obj\Debug\net5.0-windows\refint\Facec.Teste.WPF.dll
+C:\Users\guimi\OneDrive\Área de Trabalho\FACEC\2022\Programação IV\facec-clientes-wpf-main\Facec.Teste.WPF\obj\Debug\net5.0-windows\Facec.Teste.WPF.pdb
+C:\Users\guimi\OneDrive\Área de Trabalho\FACEC\2022\Programação IV\facec-clientes-wpf-main\Facec.Teste.WPF\bin\Debug\net5.0-windows\Facec.Teste.WPF.exe
+C:\Users\guimi\OneDrive\Área de Trabalho\FACEC\2022\Programação IV\facec-clientes-wpf-main\Facec.Teste.WPF\bin\Debug\net5.0-windows\Facec.Teste.WPF.deps.json
+C:\Users\guimi\OneDrive\Área de Trabalho\FACEC\2022\Programação IV\facec-clientes-wpf-main\Facec.Teste.WPF\bin\Debug\net5.0-windows\Facec.Teste.WPF.runtimeconfig.json
+C:\Users\guimi\OneDrive\Área de Trabalho\FACEC\2022\Programação IV\facec-clientes-wpf-main\Facec.Teste.WPF\bin\Debug\net5.0-windows\Facec.Teste.WPF.runtimeconfig.dev.json
+C:\Users\guimi\OneDrive\Área de Trabalho\FACEC\2022\Programação IV\facec-clientes-wpf-main\Facec.Teste.WPF\bin\Debug\net5.0-windows\Facec.Teste.WPF.dll
+C:\Users\guimi\OneDrive\Área de Trabalho\FACEC\2022\Programação IV\facec-clientes-wpf-main\Facec.Teste.WPF\bin\Debug\net5.0-windows\Facec.Teste.WPF.pdb
+C:\Users\guimi\OneDrive\Área de Trabalho\FACEC\2022\Programação IV\facec-clientes-wpf-main\Facec.Teste.WPF\bin\Debug\net5.0-windows\MaterialDesignColors.dll
+C:\Users\guimi\OneDrive\Área de Trabalho\FACEC\2022\Programação IV\facec-clientes-wpf-main\Facec.Teste.WPF\bin\Debug\net5.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\guimi\OneDrive\Área de Trabalho\FACEC\2022\Programação IV\facec-clientes-wpf-main\Facec.Teste.WPF\bin\Debug\net5.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\guimi\OneDrive\Área de Trabalho\FACEC\2022\Programação IV\facec-clientes-wpf-main\Facec.Teste.WPF\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\guimi\OneDrive\Área de Trabalho\FACEC\2022\Programação IV\facec-clientes-wpf-main\Facec.Teste.WPF\bin\Debug\net5.0-windows\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\guimi\OneDrive\Área de Trabalho\FACEC\2022\Programação IV\facec-clientes-wpf-main\Facec.Teste.WPF\bin\Debug\net5.0-windows\Nancy.dll
+C:\Users\guimi\OneDrive\Área de Trabalho\FACEC\2022\Programação IV\facec-clientes-wpf-main\Facec.Teste.WPF\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\guimi\OneDrive\Área de Trabalho\FACEC\2022\Programação IV\facec-clientes-wpf-main\Facec.Teste.WPF\obj\Debug\net5.0-windows\App.baml
+C:\Users\guimi\OneDrive\Área de Trabalho\FACEC\2022\Programação IV\facec-clientes-wpf-main\Facec.Teste.WPF\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\guimi\OneDrive\Área de Trabalho\FACEC\2022\Programação IV\facec-clientes-wpf-main\Facec.Teste.WPF\obj\Debug\net5.0-windows\Facec.Teste.WPF.g.resources
+C:\Users\guimi\OneDrive\Área de Trabalho\FACEC\2022\Programação IV\facec-clientes-wpf-main\Facec.Teste.WPF\obj\Debug\net5.0-windows\Facec.Teste.WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guimi\OneDrive\Área de Trabalho\FACEC\2022\Programação IV\facec-clientes-wpf-main\Facec.Teste.WPF\obj\Debug\net5.0-windows\Facec.Teste.WPF.AssemblyInfoInputs.cache
+C:\Users\guimi\OneDrive\Área de Trabalho\FACEC\2022\Programação IV\facec-clientes-wpf-main\Facec.Teste.WPF\obj\Debug\net5.0-windows\Facec.Teste.WPF.AssemblyInfo.cs
+C:\Users\guimi\OneDrive\Área de Trabalho\FACEC\2022\Programação IV\facec-clientes-wpf-main\Facec.Teste.WPF\obj\Debug\net5.0-windows\Facec.Teste.WPF.csproj.CoreCompileInputs.cache
+C:\Users\guimi\OneDrive\Área de Trabalho\FACEC\2022\Programação IV\facec-clientes-wpf-main\Facec.Teste.WPF\obj\Debug\net5.0-windows\Facec.Teste.WPF.csproj.CopyComplete
+C:\Users\guimi\OneDrive\Área de Trabalho\FACEC\2022\Programação IV\facec-clientes-wpf-main\Facec.Teste.WPF\obj\Debug\net5.0-windows\Facec.Teste.WPF.genruntimeconfig.cache
+C:\Users\guimi\OneDrive\Área de Trabalho\FACEC\2022\Programação IV\facec-clientes-wpf-main\Facec.Teste.WPF\obj\Debug\net5.0-windows\ref\Facec.Teste.WPF.dll
+C:\Users\facec.lab04\Downloads\facec-clientes-wpf-main\Facec.Teste.WPF\bin\Debug\net5.0-windows\Facec.Teste.WPF.exe
+C:\Users\facec.lab04\Downloads\facec-clientes-wpf-main\Facec.Teste.WPF\bin\Debug\net5.0-windows\Facec.Teste.WPF.deps.json
+C:\Users\facec.lab04\Downloads\facec-clientes-wpf-main\Facec.Teste.WPF\bin\Debug\net5.0-windows\Facec.Teste.WPF.runtimeconfig.json
+C:\Users\facec.lab04\Downloads\facec-clientes-wpf-main\Facec.Teste.WPF\bin\Debug\net5.0-windows\Facec.Teste.WPF.runtimeconfig.dev.json
+C:\Users\facec.lab04\Downloads\facec-clientes-wpf-main\Facec.Teste.WPF\bin\Debug\net5.0-windows\Facec.Teste.WPF.dll
+C:\Users\facec.lab04\Downloads\facec-clientes-wpf-main\Facec.Teste.WPF\bin\Debug\net5.0-windows\Facec.Teste.WPF.pdb
+C:\Users\facec.lab04\Downloads\facec-clientes-wpf-main\Facec.Teste.WPF\bin\Debug\net5.0-windows\MaterialDesignColors.dll
+C:\Users\facec.lab04\Downloads\facec-clientes-wpf-main\Facec.Teste.WPF\bin\Debug\net5.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\facec.lab04\Downloads\facec-clientes-wpf-main\Facec.Teste.WPF\bin\Debug\net5.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\facec.lab04\Downloads\facec-clientes-wpf-main\Facec.Teste.WPF\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\facec.lab04\Downloads\facec-clientes-wpf-main\Facec.Teste.WPF\bin\Debug\net5.0-windows\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\facec.lab04\Downloads\facec-clientes-wpf-main\Facec.Teste.WPF\bin\Debug\net5.0-windows\Nancy.dll
+C:\Users\facec.lab04\Downloads\facec-clientes-wpf-main\Facec.Teste.WPF\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\facec.lab04\Downloads\facec-clientes-wpf-main\Facec.Teste.WPF\obj\Debug\net5.0-windows\Facec.Teste.WPF.csproj.AssemblyReference.cache
+C:\Users\facec.lab04\Downloads\facec-clientes-wpf-main\Facec.Teste.WPF\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\facec.lab04\Downloads\facec-clientes-wpf-main\Facec.Teste.WPF\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\facec.lab04\Downloads\facec-clientes-wpf-main\Facec.Teste.WPF\obj\Debug\net5.0-windows\Facec.Teste.WPF_MarkupCompile.cache
+C:\Users\facec.lab04\Downloads\facec-clientes-wpf-main\Facec.Teste.WPF\obj\Debug\net5.0-windows\Facec.Teste.WPF_MarkupCompile.lref
+C:\Users\facec.lab04\Downloads\facec-clientes-wpf-main\Facec.Teste.WPF\obj\Debug\net5.0-windows\App.baml
+C:\Users\facec.lab04\Downloads\facec-clientes-wpf-main\Facec.Teste.WPF\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\facec.lab04\Downloads\facec-clientes-wpf-main\Facec.Teste.WPF\obj\Debug\net5.0-windows\Facec.Teste.WPF.g.resources
+C:\Users\facec.lab04\Downloads\facec-clientes-wpf-main\Facec.Teste.WPF\obj\Debug\net5.0-windows\Facec.Teste.WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\facec.lab04\Downloads\facec-clientes-wpf-main\Facec.Teste.WPF\obj\Debug\net5.0-windows\Facec.Teste.WPF.AssemblyInfoInputs.cache
+C:\Users\facec.lab04\Downloads\facec-clientes-wpf-main\Facec.Teste.WPF\obj\Debug\net5.0-windows\Facec.Teste.WPF.AssemblyInfo.cs
+C:\Users\facec.lab04\Downloads\facec-clientes-wpf-main\Facec.Teste.WPF\obj\Debug\net5.0-windows\Facec.Teste.WPF.csproj.CoreCompileInputs.cache
+C:\Users\facec.lab04\Downloads\facec-clientes-wpf-main\Facec.Teste.WPF\obj\Debug\net5.0-windows\Facec.Teste.WPF.csproj.CopyComplete
+C:\Users\facec.lab04\Downloads\facec-clientes-wpf-main\Facec.Teste.WPF\obj\Debug\net5.0-windows\Facec.Teste.WPF.dll
+C:\Users\facec.lab04\Downloads\facec-clientes-wpf-main\Facec.Teste.WPF\obj\Debug\net5.0-windows\refint\Facec.Teste.WPF.dll
+C:\Users\facec.lab04\Downloads\facec-clientes-wpf-main\Facec.Teste.WPF\obj\Debug\net5.0-windows\Facec.Teste.WPF.pdb
+C:\Users\facec.lab04\Downloads\facec-clientes-wpf-main\Facec.Teste.WPF\obj\Debug\net5.0-windows\Facec.Teste.WPF.genruntimeconfig.cache
+C:\Users\facec.lab04\Downloads\facec-clientes-wpf-main\Facec.Teste.WPF\obj\Debug\net5.0-windows\ref\Facec.Teste.WPF.dll
